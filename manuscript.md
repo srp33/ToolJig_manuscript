@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://srp33.github.io/ToolJig_manuscript/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://srp33.github.io/ToolJig_manuscript/v/59c284d8b5e1fb1adc70e411bf7c5ec154304003/" />
+  <link rel="alternate" type="text/html" href="https://srp33.github.io/ToolJig_manuscript/v/5a90560bf05554b535432fbb9e4ddfcb4e550bf9/" />
 
-  <meta name="manubot_html_url_versioned" content="https://srp33.github.io/ToolJig_manuscript/v/59c284d8b5e1fb1adc70e411bf7c5ec154304003/" />
+  <meta name="manubot_html_url_versioned" content="https://srp33.github.io/ToolJig_manuscript/v/5a90560bf05554b535432fbb9e4ddfcb4e550bf9/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://srp33.github.io/ToolJig_manuscript/v/59c284d8b5e1fb1adc70e411bf7c5ec154304003/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://srp33.github.io/ToolJig_manuscript/v/5a90560bf05554b535432fbb9e4ddfcb4e550bf9/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://srp33.github.io/ToolJig_manuscript/v/59c284d8b5e1fb1adc70e411bf7c5ec154304003/))
+([permalink](https://srp33.github.io/ToolJig_manuscript/v/5a90560bf05554b535432fbb9e4ddfcb4e550bf9/))
 was automatically generated
-from [srp33/ToolJig_manuscript@59c284d](https://github.com/srp33/ToolJig_manuscript/tree/59c284d8b5e1fb1adc70e411bf7c5ec154304003)
+from [srp33/ToolJig_manuscript@5a90560](https://github.com/srp33/ToolJig_manuscript/tree/5a90560bf05554b535432fbb9e4ddfcb4e550bf9)
 on April 18, 2020.
 </em></small>
 
@@ -139,6 +139,8 @@ on April 18, 2020.
 ## Abstract {.page_break_before}
 
 This is a test.
+
+This is another test.
 
 
 ## References {.page_break_before}
