@@ -1,3 +1,3 @@
 # ToolJig manuscript
 
-It was created using [Manubot]().
+It was created using [Manubot](https://manubot.org/).
